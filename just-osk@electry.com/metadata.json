@@ -1,0 +1,17 @@
+{
+    "description": "On-screen keyboard that just works - everywhere",
+    "gettext-domain": "just-osk@electry.com",
+    "name": "Just OSK",
+    "settings-schema": "org.gnome.shell.extensions.just-osk",
+    "session-modes": ["user", "unlock-dialog", "gdm"],
+    "shell-version": [
+        "45",
+        "46",
+        "47",
+        "48",
+        "49"
+    ],
+    "url": "https://github.com/electriczity/just-osk",
+    "uuid": "just-osk@electry.com",
+    "version": 1
+}
